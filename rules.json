@@ -1,0 +1,66 @@
+[
+  {
+    "find": "—",
+    "replace": ", "
+  },
+  {
+    "find": "–",
+    "replace": "-"
+  },
+  {
+    "find": "`",
+    "replace": "'"
+  },
+  {
+    "find": "´",
+    "replace": "'"
+  },
+  {
+    "find": "’",
+    "replace": "'"
+  },  
+  {
+    "find": "  ",
+    "replace": " "
+  },
+  {
+    "find": "á",
+    "replace": "a"
+  },
+  {
+    "find": "é",
+    "replace": "e"
+  },
+  {
+    "find": "í",
+    "replace": "i"
+  },
+  {
+    "find": "ó",
+    "replace": "o"
+  },
+  {
+    "find": "ú",
+    "replace": "u"
+  },
+  {
+    "find": "Á",
+    "replace": "A"
+  },
+  {
+    "find": "É",
+    "replace": "E"
+  },
+  {
+    "find": "Í",
+    "replace": "I"
+  },
+  {
+    "find": "Ó",
+    "replace": "O"
+  },
+  {
+    "find": "Ú",
+    "replace": "U"
+  }
+]
